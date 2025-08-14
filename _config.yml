@@ -1,6 +1,6 @@
 title: #Test
 logo: /assets/img/logo.png
-description: This is <strong>Test - ZwSite Org Bangladesh</strong> repo. Since our establishment in 2015, we have been committed to revolutionizing the social club industry by continuously pushing the envelope of what is conceivable.
+description: This is a <strong>Sample Website</strong>. We used a Jekyll theme for GitHub Pages here.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
