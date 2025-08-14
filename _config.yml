@@ -1,6 +1,6 @@
 title: #Test
 logo: /assets/img/logo.png
-description: This is a <strong>Sample Website</strong>. We used a Jekyll theme for GitHub Pages here.
+description: This <strong>Website</strong> is used a Jekyll theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
