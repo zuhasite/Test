@@ -1,17 +1,10 @@
-![Avatar](/assets/img/avatar.jpg)
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
 # Test
+
+# The Minimal theme
+
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+
+*Minimal is a Jekyll theme for GitHub Pages. You can [preview the original theme here](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
 
 *Test is used a Jekyll theme for GitHub Pages. You can [preview after applying this theme what it looks like](https://zuhasite.github.io/Test).*
 ![Thumbnail of Test](thumbnail.png)
@@ -103,62 +96,24 @@ For more information, see [the Jekyll variables documentation](https://jekyllrb.
 
 See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## Project philosophy
 
-## Introduction
-Welcome to the ZwSite Org Bangladesh! A vibrant hub of creativity, learning, and growth. Our community is dedicated to fostering innovation and collaboration among individuals from diverse backgrounds. Whether you're a tech enthusiast, a creative artist, or a curious learner, you'll find a welcoming space here. We are a collaborative team dedicated to creating innovative solutions and fostering knowledge sharing.
-
-## Features
-- **Feature 1**: Description of feature 1.
-- **Feature 2**: Description of feature 2.
-- **Feature 3**: Description of feature 3.
-
-## Installation
-To get started with the ZuhaWorldSite, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/zuhasite/test.git
-   ```
-
-2. **Navigate to the project directory**:
-   ```bash
-   cd test
-   ```
-
-3. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-4. **Run the project**:
-   ```bash
-   npm start
-   ```
-
-## Usage
-Provide detailed information on how to use the project. Include code snippets, examples, and screenshots if necessary.
+The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
 
 ## Contributing
-We welcome contributions from the community! To contribute:
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b my-feature-branch`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin my-feature-branch`.
-5. Submit a pull request.
+Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
-Please ensure your code follows our [coding standards](link-to-coding-standards) and [contribution guidelines](link-to-contribution-guidelines).
+### Previewing the theme locally
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
-## Contact
-For any questions, feel free to [reach out to the team](mailto:info@zuha.site).
+1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+
+### Running tests
+
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
