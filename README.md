@@ -1,3 +1,4 @@
+![Avatar](/assets/img/avatar.jpg)
 ## Hi there 👋
 
 <!--
