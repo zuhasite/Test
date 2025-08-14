@@ -1,0 +1,20 @@
+---
+layout: default
+title: About
+permalink: /about.html
+---
+<p><a href="https://zuhasite.github.io/">Home</a> | <a href="https://zuhasite.github.io/about">About</a> | <a href="https://zuhasite.github.io/contact">Contact</a></p>
+
+<img src="{{ 'assets/img/about.png' | relative_url }}" alt="About" />
+
+<div class="text-left">
+  <h2>About ZwSite Org Bangladesh</h2>
+  <p>Thanks for visiting ZwSite Org Bangladesh “জোহাসাইট ওআরজি বাংলাদেশ” Website</p>
+  <p>This website is made by GitHub page. Explore our broad selection of services tailored to suit the needs of businesses and communities. We help improve your online presence and support clear, effective teamwork.</p>
+  <br/>
+<h3>Mission and Vission</h3>
+<h4>Our Commitment to Change</h4>
+<p>Our goal is to strengthen communities in Bangladesh with new solutions. We want to help social growth and also give everyone a chance to make a positive difference.</p>
+<h4>Our Aspiration for Society</h4>
+<p>In order to be a leader in community participation along with social responsibility, creating a network of support that transforms lives and drives sustainable development throughout Bangladesh.</p>
+</div>
