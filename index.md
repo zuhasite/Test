@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./) | [About](./about) | [Green Heaven](./green-heaven)
+[Home](https://zuhasite.github.io/Test/) | [About](https://zuhasite.github.io/Test/about) | [Green Heaven](https://zuhasite.github.io/Test/green-heaven)
 
 ## OUR HISTORY
 
