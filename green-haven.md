@@ -4,7 +4,7 @@ title: Green Heaven
 permalink: /green-heaven.html
 ---
 
-[Home](./) | [Green Heaven](./green-heaven)
+[Home](./) | [About](./about) | [Green Heaven](./green-heaven)
 
 # ZuhaWorld Green Heaven: Live the World You Imagine\!
 
