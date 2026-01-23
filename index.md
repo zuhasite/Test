@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](./) | [About](./about) | [Green Heaven](./green-heaven)
+
 ## OUR HISTORY
 
 Our dedication to perfection and our love of innovation are what motivate us. Since our establishment in 2015, we have been committed to revolutionizing the social club industry by continuously pushing the envelope of what is conceivable.
